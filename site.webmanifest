@@ -1,0 +1,16 @@
+{
+    "name": "On Board BCN Academy",
+    "short_name": "On Board BCN",
+    "lang": "es",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/image/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1d3f65",
+    "background_color": "#f9f9f9",
+    "display": "standalone"
+}

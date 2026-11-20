@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://onboardbcn.github.io/</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/pnb.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/pnb.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/pnb.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/pnb.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/per.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/per.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/per.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/per.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/per.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/per.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/per.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/per.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/habilitacion-vela.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/habilitacion-vela.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/habilitacion-vela.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/habilitacion-vela.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/habilitacion-vela.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/habilitacion-vela.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/habilitacion-vela.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/habilitacion-vela.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/habilitacion-baleares.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/habilitacion-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/habilitacion-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/habilitacion-baleares.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/habilitacion-baleares.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/habilitacion-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/habilitacion-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/habilitacion-baleares.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/habilitacion-vela-baleares.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/habilitacion-vela-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/habilitacion-vela-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/habilitacion-vela-baleares.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/habilitacion-vela-baleares.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/habilitacion-vela-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/habilitacion-vela-baleares.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/habilitacion-vela-baleares.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/clases-particulares-nautica.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/clases-particulares-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/clases-particulares-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/clases-particulares-nautica.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/clases-particulares-nautica.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/clases-particulares-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/clases-particulares-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/clases-particulares-nautica.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/inscripcion-pnb.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/inscripcion-pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/inscripcion-pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/inscripcion-pnb.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/inscripcion-pnb.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/inscripcion-pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/inscripcion-pnb.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/inscripcion-pnb.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/inscripcion-per.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/inscripcion-per.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/inscripcion-per.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/inscripcion-per.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/inscripcion-per.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/inscripcion-per.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/inscripcion-per.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/inscripcion-per.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/titulaciones-nauticas.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/titulaciones-nauticas.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/titulaciones-nauticas.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/titulaciones-nauticas.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/titulaciones-nauticas.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/titulaciones-nauticas.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/titulaciones-nauticas.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/titulaciones-nauticas.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/calendario-examenes-nautica.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/calendario-examenes-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/calendario-examenes-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/calendario-examenes-nautica.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/calendario-examenes-nautica.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/calendario-examenes-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/calendario-examenes-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/calendario-examenes-nautica.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/juegos-nautica.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/juegos-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/juegos-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/juegos-nautica.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/juegos-nautica.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/juegos-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/juegos-nautica.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/juegos-nautica.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/simuladores.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/simuladores.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/simuladores.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/simuladores.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/simuladores.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/simuladores.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/simuladores.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/simuladores.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/contacto.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/contacto.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/contacto.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/contacto.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://onboardbcn.github.io/cat/contacto.html</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://onboardbcn.github.io/contacto.html"/>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://onboardbcn.github.io/cat/contacto.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://onboardbcn.github.io/contacto.html"/>
+        <lastmod>2026-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>
